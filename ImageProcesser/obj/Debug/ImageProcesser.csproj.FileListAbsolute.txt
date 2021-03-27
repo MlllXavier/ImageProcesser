@@ -1,0 +1,9 @@
+c:\users\allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\bin\Debug\ImageProcesser.exe.config
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\bin\Debug\ImageProcesser.exe
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\bin\Debug\ImageProcesser.pdb
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\obj\Debug\ImageProcesser.csprojResolveAssemblyReference.cache
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\obj\Debug\ImageProcesser.Form1.resources
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\obj\Debug\ImageProcesser.Properties.Resources.resources
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\obj\Debug\ImageProcesser.csproj.GenerateResource.Cache
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\obj\Debug\ImageProcesser.exe
+C:\Users\Allez\documents\visual studio 2013\Projects\ImageProcesser\ImageProcesser\obj\Debug\ImageProcesser.pdb
